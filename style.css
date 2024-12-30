@@ -1,0 +1,13 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: bisque;
+    text-align: center;
+    font-size: 50px;
+}
+
+.topdescription{
+    color: rgb(244, 166, 132);
+}
